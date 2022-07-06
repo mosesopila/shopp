@@ -15,7 +15,7 @@ public class Salescommission {
 	public Salescommission( int empid,String empname) {
 		myempid =empid;
 		myempname = empname;
-	    mytsales =0.00;
+	        mytsales =0.00;
 		mycommissionrate=0.00;
 		mytsalescommission=0.00;
 		
